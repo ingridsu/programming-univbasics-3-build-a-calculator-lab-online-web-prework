@@ -7,7 +7,7 @@ addition(5,4)
 def subtraction(num1, num2)
 puts sub 
 a-b
-aubtraction()
+aubtraction(10,5)
 end
 
 def division(num1, num2)
@@ -23,5 +23,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-
+puts math.sqrt
+square_root()
 end

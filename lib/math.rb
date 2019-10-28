@@ -5,7 +5,7 @@ end
 addition(5,4)
 
 def subtraction(num1, num2)
-
+puts
 end
 
 def division(num1, num2)

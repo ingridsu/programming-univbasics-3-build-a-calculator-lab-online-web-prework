@@ -20,7 +20,7 @@ end
 
 def modulo(num1, num2)
 puts math.sin(#{num1},#{num2})
-modulo
+modulo(34,5)
 end
 
 def square_root(num)

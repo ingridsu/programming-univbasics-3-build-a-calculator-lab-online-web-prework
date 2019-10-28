@@ -19,10 +19,10 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+puts math.sin()
 end
 
 def square_root(num)
 puts math.sqrt
-square_root()
+square_root(81)
 end

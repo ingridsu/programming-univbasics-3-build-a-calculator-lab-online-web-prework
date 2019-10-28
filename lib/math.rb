@@ -1,5 +1,5 @@
 def addition(num1, num2)
-puts sum 
+p sum 
 a+b
 end
 addition(5,4)

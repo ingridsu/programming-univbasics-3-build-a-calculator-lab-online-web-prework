@@ -2,7 +2,7 @@ def addition(num1, num2)
 puts "Hi"
 a+b
 end
-
+addition()
 
 def subtraction(num1, num2)
 
